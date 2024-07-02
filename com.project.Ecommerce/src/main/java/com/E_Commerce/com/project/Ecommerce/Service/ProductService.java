@@ -1,7 +1,7 @@
-package com.example.ecommerce.service;
+package com.E_Commerce.com.project.Ecommerce.service;
 
 import java.util.List;
-import com.example.ecommerce.entity.Product;
+import com.E_Commerce.com.project.Ecommerce.Entity.Product;
 
 public interface ProductService {
     List<Product> getAllProducts();
